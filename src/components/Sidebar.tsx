@@ -5,7 +5,6 @@ import {
   Box,
   Avatar,
   Indicator,
-  Text,
   Group,
 } from "@mantine/core";
 interface SidebarComponentProps {
