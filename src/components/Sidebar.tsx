@@ -47,7 +47,7 @@ export default function Sidebar() {
             <Avatar
               size={40}
               radius="xl"
-              src="../../public/keang.jpg"
+              src="../../public/Keang.jpg"
             />
           </Indicator>
           <text> User : chaichan : Student </text>
